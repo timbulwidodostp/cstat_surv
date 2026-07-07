@@ -1,6 +1,8 @@
 # cstat_surv
 Calculate C-statistic for survival models Use cstat_surv With STATA 19
 
+https://www.youtube.com/watch?v=gZhCSqKyqxs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
